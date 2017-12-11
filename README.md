@@ -1,4 +1,3 @@
-<img align="right" src="https://docs-assets.developer.apple.com/turicreate/turi-dog.svg" alt="Turi Create" width="100">
 # TuriCreate-Breast-Cancer-Prediction
 Predicting breast cancer using turicreate
 
